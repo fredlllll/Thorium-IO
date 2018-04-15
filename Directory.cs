@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace Thorium_IO
+namespace Thorium.IO
 {
     public static class Directory
     {

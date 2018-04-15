@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Reflection;
 
-namespace Thorium_IO
+namespace Thorium.IO
 {
     public static class Directories
     {

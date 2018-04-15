@@ -3,9 +3,9 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using Newtonsoft.Json.Linq;
-using Thorium_Processes;
+using Thorium.Processes;
 
-namespace Thorium_IO
+namespace Thorium.IO
 {
     public static class Files
     {
